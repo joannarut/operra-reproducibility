@@ -66,3 +66,8 @@ Open RStudio Server at [http://localhost:8787](http://localhost:8787) — no log
 Cite this workshop as: 
 
 A BibTeX entry is given by:
+
+## Hands-on exercise 
+Part of the OPeR-RA workshop series. 
+Name: Joanna M. Rutkowska
+ORCID: https://orcid.org/0000-0003-3868-4789 
